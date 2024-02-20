@@ -1,0 +1,3 @@
+[submodule "前端/mp3score"]
+	path = 前端/mp3score
+	url = https://github.com/OTD-Score/Team-Document.git
